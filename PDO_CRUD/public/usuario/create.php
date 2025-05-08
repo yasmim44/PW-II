@@ -2,7 +2,7 @@
 include '../../config/connection.php';
 ?>
 
-<form action="creat.php" method="post">
+<form action="create.php" method="post">
     <label for="username">Nome de Usuario</label>
     <input type="text" name="username" id="username">
     <br><br>
